@@ -1,4 +1,4 @@
-# IP CODE CHALLENGE PHASE 2
+# BOT BATTLR CODE CHALLENGE PHASE 2
 ## Description
 This is a react application that displays a list or bots under a Bot Collection div. This bots can be selected and used to build an army. Once a bot is clicked on, it is added under the "Your Bot Army" div. The delete button permanently remove the bot. 
 
